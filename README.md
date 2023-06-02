@@ -6,16 +6,13 @@ A web application for COVID vaccination booking and management.
 
 ## Table of Contents
 
-- [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies](#technologies)
 
 
-## Introduction
 
-The COVID Vaccination Booking project is a web application that allows users to book COVID vaccination appointments and provides a management system for administrators. The application provides a user-friendly interface for users to search for vaccination centers, book appointments, and view their booking details.
 
 ## Features
 
