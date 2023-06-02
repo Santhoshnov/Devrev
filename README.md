@@ -33,7 +33,7 @@ The COVID Vaccination Booking project is a web application that allows users to 
 
 To install and run this project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/Santhoshnov/devrev.git`
+1. Clone the repository: `git clone https://github.com/Santhoshnov/Devrev.git`
 2. Install the dependencies: `npm install`
 3. Set up the MongoDB connection in `server.js`
 4. Start the application: `node server.js`
