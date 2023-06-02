@@ -18,7 +18,7 @@ A web application for COVID vaccination booking and management.
 
 - User authentication and registration
 - User dashboard to view and manage appointments
-- Search functionality for vaccination centers
+- Search for vaccination centers
 - Booking system with availability tracking
 - Admin dashboard for center management
 - Adding and removing vaccination centers
