@@ -11,8 +11,7 @@ A web application for COVID vaccination booking and management.
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies](#technologies)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
