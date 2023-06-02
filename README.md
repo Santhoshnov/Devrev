@@ -57,13 +57,6 @@ To install and run this project locally, follow these steps:
 - express-session (for session management)
 - express-validator (for form validation)
 - HTML/CSS
-- Bootstrap (optional)
 - JavaScript
 
-## Contributing
 
-Contributions are welcome! If you find any bugs or have suggestions for improvement, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
