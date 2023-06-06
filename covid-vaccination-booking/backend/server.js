@@ -21,7 +21,7 @@ app.use(session({
 
 mongoose.set('strictQuery', false);
 
-mongoose.connect('mongodb+srv://santhosh13112002:MrtNyDKGsTUS8VC5@cluster0.jikeuia.mongodb.net/?retryWrites=true&w=majority', {
+mongoose.connect('mongodb+srv://<username>:<password>@cluster0.jikeuia.mongodb.net/?retryWrites=true&w=majority', {
   useNewUrlParser: true,
   useUnifiedTopology: true,
 })
@@ -142,9 +142,9 @@ app.post('/slots', async (req, res) => {
 
 const setupAdmin = async () => {
   try {
-    const admin = await Admin.findOne({ username: 'admin' });
+    const admin = await Admin.findOne({ username: '<your-admin-username>' });
     if (!admin) {
-      const hashedPassword = await bcrypt.hash('shiro@sandy', 10);
+      const hashedPassword = await bcrypt.hash('<your-admin-password>', 10);
       await Admin.create({ username: 'admin', password: hashedPassword });
       console.log('Admin account created successfully.');
     } else {
