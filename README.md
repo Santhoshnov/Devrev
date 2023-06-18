@@ -1,4 +1,4 @@
-![search](https://github.com/Santhoshnov/Devrev/assets/108118100/36317092-9b1a-4e4b-ad49-661d3dc0d95d)# Devrev
+# Devrev
 
 # COVID Vaccination Booking
 
