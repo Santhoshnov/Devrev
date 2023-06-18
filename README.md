@@ -1,4 +1,4 @@
-# Devrev
+![search](https://github.com/Santhoshnov/Devrev/assets/108118100/36317092-9b1a-4e4b-ad49-661d3dc0d95d)# Devrev
 
 # COVID Vaccination Booking
 
@@ -64,13 +64,14 @@ To install and run this project locally, follow these steps:
 ![c-admin](https://github.com/Santhoshnov/Devrev/assets/108118100/f91c9c1d-0b07-48f5-98d2-15b6a49e781d)
 
 
-![c-add](https://github.com/Santhoshnov/Devrev/assets/108118100/f4a406ad-5b88-4ffe-a3fe-bd53abeda854)
+![add](https://github.com/Santhoshnov/Devrev/assets/108118100/5bde03a1-8982-4918-a4d6-7fdf08bec784)
 
 
 ![c-remove](https://github.com/Santhoshnov/Devrev/assets/108118100/047d94bb-1003-4245-9ec8-d3aa68513065)
 
 
-![c-dosage](https://github.com/Santhoshnov/Devrev/assets/108118100/120714df-927f-4bc3-a366-dda70d9de591)
+![dosage](https://github.com/Santhoshnov/Devrev/assets/108118100/e44e8032-989d-4c7b-be3b-589099df49b4)
+
 
 ### User Functionalities
 
@@ -80,10 +81,10 @@ To install and run this project locally, follow these steps:
 ![c-signup](https://github.com/Santhoshnov/Devrev/assets/108118100/66b09dae-bf17-4499-a1a9-7c1536fa87c6)
 
 
-![c-dashboard](https://github.com/Santhoshnov/Devrev/assets/108118100/05c4ff96-79e1-419f-845e-647a1476e587)
+![search](https://github.com/Santhoshnov/Devrev/assets/108118100/3607fb80-ec8f-47a9-bc39-460d2a95551d)
 
 
-![c-book](https://github.com/Santhoshnov/Devrev/assets/108118100/4e14f629-55d9-4a66-98e9-d013c774c856)
+![book](https://github.com/Santhoshnov/Devrev/assets/108118100/c21d2394-7b0b-4af0-b6d6-f3778daef62a)
 
 
 
