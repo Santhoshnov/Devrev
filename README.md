@@ -18,7 +18,6 @@ A Full stack web application for COVID vaccination booking and management.
 ## Features
 
 - User authentication and registration
-- User dashboard to view and manage appointments
 - Search for vaccination centers
 - Booking system with availability tracking
 - Admin dashboard for center management
